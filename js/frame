@@ -1,0 +1,8 @@
+skull: idle 11f * 24w 32h,  attack 18f * 43w 37h,
+walk 13f * 22w 33h, dead 15f * 33w 32h
+
+king: idle 18f * 128w 128h, attack 72f * 128w 128h,
+walk 8f * 128w 128h, dead 37f 128w 128h
+
+knight: idle 15f * 64w 64h, attack 49f * 64w 64h,
+walk 12f 64w 64h, dead 22f * 64w 64h

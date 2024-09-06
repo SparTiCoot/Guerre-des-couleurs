@@ -1,0 +1,95 @@
+export const skull = [
+	{
+		nom:"idle",
+		frame:4,
+		w:64,
+		h:64,
+	},{
+		nom:"attack",
+		frame:13,
+		w:64,
+		h:64,
+	},{
+		nom:"walk",
+		frame:12,
+		w:64,
+		h:64,
+	},{
+		nom:"dead",
+		frame:13,
+		w:64,
+		h:64,
+	}
+];
+export const king = [
+	{
+		nom:"idle",
+		frame:4,
+		w:48,
+		h:48,
+	},{
+		nom:"attack",
+		frame:8,
+		w:48,
+		h:48,
+	},{
+		nom:"walk",
+		frame:8,
+		w:48,
+		h:48,
+	},{
+		nom:"dead",
+		frame:4,
+		w:48,
+		h:48,
+	}
+];
+
+export const knight = [
+	{
+		nom:"idle",
+		frame:15,
+		w:64,
+		h:64,
+	},{
+		nom:"attack",
+		frame:22,
+		w:144,
+		h:64,
+	},{
+		nom:"walk",
+		frame:8,
+		w:96,
+		h:64,
+	},{
+		nom:"dead",
+		frame:15,
+		w:96,
+		h:64,
+	}
+];
+
+export const demon = [
+	{
+		nom:"idle",
+		frame:8,
+		w:64,
+		h:49,
+	},{
+		nom:"attack",
+		frame:5,
+		w:64,
+		h:49,
+	},{
+		nom:"walk",
+		frame:8,
+		w:64,
+		h:49,
+	},{
+		nom:"dead",
+		frame:6,
+		w:64,
+		h:49,
+	}
+];
+
